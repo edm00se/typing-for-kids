@@ -200,7 +200,8 @@ class App extends React.Component {
                 width: '100%',
                 border: 'none',
                 fontSize: '1.5em',
-                outline: 'none'
+                outline: 'none',
+                overflow: 'auto'
               }}
             />
           </div>
